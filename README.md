@@ -55,13 +55,9 @@ f(q̇) = [1.86 q̇1 + 1.93 signo(q̇1)]
 └── README.md
 ```
 
-## Equipo
-
 | Nombre | Matrícula |
 |---|---|
-| _Integrante 1_ | _000000_ |
-| _Integrante 2_ | _000000_ |
-| _Integrante 3_ | _000000_ |
+| Fernando Muñiz Valencia | 2132259 |
 
 ## Referencia
 
